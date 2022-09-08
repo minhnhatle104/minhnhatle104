@@ -23,5 +23,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhnhatle104&theme=dark" alt="minhnhatle104" /></p>
 
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username={username}&theme=gruvbox" alt="minhlenhat104" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=minhnhatle104&theme=gruvbox" alt="minhnhatle104" /></p>
 
