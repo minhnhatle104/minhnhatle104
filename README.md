@@ -22,5 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhnhatle104&show_icons=true&locale=en&theme=tokyonight" alt="minhnhatle104" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhnhatle104&theme=tokyonight" alt="minhnhatle104" /></p>
-[![lenhatminh's github activity graph](https://activity-graph.herokuapp.com/graph?username=minhnhatle104&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=minhnhatle104&theme=dracula" alt="minhnhatle104" /></p>
+
 
