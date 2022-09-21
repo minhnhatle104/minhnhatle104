@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="minhnhatle104" /> </p>
 
-- 🔭 I’m currently working on **Place Sharing MERN Stack**
+- 🔭 I’m currently pursuing the bachelor's degree in **Software Engineering** in HCMUS-K19
 
 - 🌱 I’m currently learning **ReactJS and React Native**
 
