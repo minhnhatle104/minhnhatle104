@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **lnminh104@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p>
+<h3>About me:</h3>
+
 ```
 {
    "code":[
