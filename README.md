@@ -15,13 +15,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-'''
+```
 {
   Language: ["Javascript","Java","Golang"],
   Framework: ["ExpressJS","Gin","Spring boot"],
   Database: ["MySQL","MongoDB"]
 }
-'''
+```
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhnhatle104&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="minhnhatle104" /></p>
 
