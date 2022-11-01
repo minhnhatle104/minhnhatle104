@@ -38,16 +38,6 @@
    "others":["Docker","Kubernetes"]
 }
 ```
-</p>
-
-<div display="flex">
-   <div  width="30%" >
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhnhatle104&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
-   </div>
-   <div width="70%" >
-      <img src="https://github-readme-stats.vercel.app/api?username=minhnhatle104&show_icons=true&locale=en&theme=tokyonight" /> 
-   </div>
-</div>
 
 ![alt-text-1](https://github-readme-stats.vercel.app/api/top-langs?username=minhnhatle104&show_icons=true&locale=en&layout=compact&theme=tokyonight) ![alt-text-2](https://github-readme-stats.vercel.app/api?username=minhnhatle104&show_icons=true&locale=en&theme=tokyonight)
 
