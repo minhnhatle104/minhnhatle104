@@ -11,16 +11,31 @@
 
 - 📫 How to reach me **lnminh104@gmail.com**
 
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p>
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+   "code":[
+      "Javascript",
+      "Java",
+      "Golang",
+      "Python"
+   ],
+   "technologies":{
+      "mobileApp":"React Native",
+      "frontEnd":{
+         "js":"ReactJS",
+         "css":["Antd", "Tailwind", "Bootstrap"]
+      },
+      "backEnd":{
+         "js":[ "Node","Express"],
+         "Java":"Spring boot",
+         "Go":"Gin"
+      }
+   },
+   "database":["MongoDB", "MySQL"],
+   "telecom":[ "Erlang","Bash Script"],
+   "others":["Docker","Kubernetes"]
 }
 ```
 </p>
