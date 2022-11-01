@@ -40,7 +40,12 @@
 ```
 </p>
 
-![alt-text-1](https://github-readme-stats.vercel.app/api/top-langs?username=minhnhatle104&show_icons=true&locale=en&layout=compact&theme=tokyonight) | ![alt-text-2](https://github-readme-stats.vercel.app/api?username=minhnhatle104&show_icons=true&locale=en&theme=tokyonight)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhnhatle104&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="100" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minhnhatle104&show_icons=true&locale=en&theme=tokyonight" width="100" /> 
+</p>
+
+![alt-text-1](https://github-readme-stats.vercel.app/api/top-langs?username=minhnhatle104&show_icons=true&locale=en&layout=compact&theme=tokyonight) ![alt-text-2](https://github-readme-stats.vercel.app/api?username=minhnhatle104&show_icons=true&locale=en&theme=tokyonight)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhnhatle104&theme=tokyonight" alt="minhnhatle104" /></p>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=minhnhatle104&theme=dracula" alt="minhnhatle104" /></p>
