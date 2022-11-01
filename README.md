@@ -42,7 +42,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhnhatle104&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="minhnhatle104" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhnhatle104&show_icons=true&locale=en&theme=tokyonight" alt="minhnhatle104" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=minhnhatle104&show_icons=true&locale=en&theme=tokyonight" alt="minhnhatle104" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhnhatle104&theme=tokyonight" alt="minhnhatle104" /></p>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=minhnhatle104&theme=dracula" alt="minhnhatle104" /></p>
