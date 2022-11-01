@@ -1,11 +1,3 @@
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
 <h1 align="center">Hi 👋, I'm Le Nhat Minh</h1>
 <h3 align="center">A passionate web developer from Viet Nam</h3>
 
@@ -23,7 +15,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
+<p>
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhnhatle104&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="minhnhatle104" /></p>
 
