@@ -17,9 +17,9 @@
 <h3 align="left">Languages and Tools:</h3>
 ```
 {
-  Language: ["Javascript","Java","Golang"],
-  Framework: ["ExpressJS","Gin","Spring boot"],
-  Database: ["MySQL","MongoDB"]
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
 }
 ```
 
