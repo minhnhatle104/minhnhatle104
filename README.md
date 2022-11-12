@@ -29,7 +29,6 @@
       },
       "backEnd":{
          "js":[ "Node","Express"],
-         "Java":"Spring boot",
          "Go":"Gin"
       }
    },
