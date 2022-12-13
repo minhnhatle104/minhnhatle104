@@ -33,7 +33,7 @@
       }
    },
    "database":["MongoDB", "MySQL"],
-   "telecom":[ "Erlang","Bash Script"],
+   "telecommunications":[ "Erlang","Bash Script"],
    "others":["Docker","Kubernetes"]
 }
 ```
