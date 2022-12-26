@@ -15,12 +15,7 @@
 
 ```
 {
-   "code":[
-      "Javascript",
-      "Java",
-      "Golang",
-      "Python"
-   ],
+   "code":["Javascript", "Typescript", "Java", "Golang", "Python"],
    "technologies":{
       "mobileApp":"React Native",
       "frontEnd":{
@@ -29,12 +24,13 @@
       },
       "backEnd":{
          "js":[ "Node","Express"],
-         "Go":"Gin"
+         "Go":"Gin",
+         "Java": "Spring boot"
       }
    },
    "database":["MongoDB", "MySQL"],
    "telecommunications":[ "Erlang","Bash Script"],
-   "others":["Docker","Kubernetes"]
+   "others":["Docker","Kubernetes","Firebase"]
 }
 ```
 
