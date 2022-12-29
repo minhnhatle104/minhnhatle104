@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Android, Erlang and MERN**
 
-- 📫 How to reach me **lnminh104@gmail.com**
-
 <h3>About me:</h3>
 
 ```
