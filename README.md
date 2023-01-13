@@ -26,7 +26,8 @@ const minhle = {
             Java:"Spring"
         },
         frontEnd:{
-            js: "React"
+            js: "React",
+            css: ["Boostrap", "MaterialUI", "Antd", "Tailwind"]
         },
         mobileApp: {
             native: ["Android Development"],
