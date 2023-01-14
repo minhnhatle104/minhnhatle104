@@ -46,7 +46,7 @@ const minhle = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-### 🔥🔥🔥 How about some stats 🔥🔥🔥?
+### 🔥🔥🔥 How about some stats?
 
 ![alt-text-1](https://github-readme-stats.vercel.app/api/top-langs?username=minhnhatle104&show_icons=true&locale=en&layout=compact&theme=tokyonight) ![alt-text-2](https://github-readme-stats.vercel.app/api?username=minhnhatle104&show_icons=true&locale=en&theme=tokyonight)
 
