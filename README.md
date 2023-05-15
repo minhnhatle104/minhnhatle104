@@ -4,10 +4,6 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/MinhLe104?label=Follow)](https://twitter.com/intent/follow?screen_name=MinhLe104)
-[![Linkedin: anmol](https://img.shields.io/badge/-minhle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minh-le-nhat-3b51441bb/)](https://www.linkedin.com/in/minh-le-nhat-3b51441bb/)
-![GitHub followers](https://img.shields.io/github/followers/minhnhatle104?label=Follow&style=social)
-
 ### 📫 Ask me about?
 
 I am passionate about technologies espcially in Android Development and Web Development. You can ask me about JS, cross platform framework or even in telecommunication. I am super happy to connect with everyone.😃
