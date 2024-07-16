@@ -7,6 +7,7 @@
 ### 📫 Ask me about?
 
 I am passionate about technologies espcially in Android Development and Web Development. You can ask me about JS, cross platform framework or even in telecommunication. I am super happy to connect with everyone.😃
+Currently, I am working for a product company which serves milition users. I am in charge of payment service with knowledge in Java Spring Boot - Microservice, AWS.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
