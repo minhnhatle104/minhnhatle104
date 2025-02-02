@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello🙏🏻, I'm Le Nhat Minh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Student at <a href="https://en.wikipedia.org/wiki/Vietnam_National_University,_Ho_Chi_Minh_City">Ho Chi Minh City University Of Science
+<p><em>Student at <a href="https://en.wikipedia.org/wiki/Vietnam_National_University,_Ho_Chi_Minh_City">Ho Chi Minh City University Of Science - Vietnam National University, Ho Chi Minh City
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
